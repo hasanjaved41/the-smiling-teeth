@@ -145,7 +145,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 7; white-space: nowrap; font-weight:700;">Smiling Face
+                  style="z-index: 7; white-space: nowrap; font-weight:700;">Smiling Face Javed
                 </div>
 
                 <!-- LAYER NR. 2 -->
